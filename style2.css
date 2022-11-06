@@ -1,0 +1,27 @@
+body{
+background-color: rgb(255, 206, 146);
+}
+
+.Titulo {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Pasaje{
+    width: 500px;
+    height: 250px;
+}
+
+.Rectangulo1 {
+    text-align: center;
+}
+
+.rectangulo2 {
+    text-align: center;
+}
+
+.roan {
+    width: 500px;
+    height: 250px;
+}
